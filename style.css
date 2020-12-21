@@ -1,0 +1,10 @@
+div.column {
+        width: 50%;
+        float: left;
+    
+}
+.wcol {
+        float:left;
+        text-align:center;
+        line-height:15px;
+    }
